@@ -1,0 +1,101 @@
+ID,Tipo_Documento,Setor,Data_Criacao,Responsavel,Status
+1,Nota Fiscal,Jurídico,2026-02-10 16:39:51.146144,Pessoa 9,Arquivado
+2,Contrato,Jurídico,2026-04-03 16:39:51.146159,Pessoa 13,Ativo
+3,Processo,Financeiro,2024-12-22 16:39:51.146165,Pessoa 10,Ativo
+4,Ofício,RH,2023-12-07 16:39:51.146168,Pessoa 18,Arquivado
+5,Nota Fiscal,RH,2023-12-13 16:39:51.146172,Pessoa 8,Arquivado
+6,Relatório,Financeiro,2026-04-29 16:39:51.146174,Pessoa 10,Ativo
+7,Contrato,Administrativo,2025-08-29 16:39:51.146177,Pessoa 13,Pendente
+8,Contrato,RH,2026-03-24 16:39:51.146179,Pessoa 7,Ativo
+9,Processo,Jurídico,2025-11-05 16:39:51.146182,Pessoa 11,Pendente
+10,Ofício,Financeiro,2024-10-29 16:39:51.146185,Pessoa 5,Pendente
+11,Ofício,TI,2026-04-08 16:39:51.146187,Pessoa 3,Arquivado
+12,Contrato,TI,2023-11-04 16:39:51.146189,Pessoa 11,Pendente
+13,Nota Fiscal,Financeiro,2024-12-03 16:39:51.146194,Pessoa 18,Arquivado
+14,Contrato,Financeiro,2025-09-18 16:39:51.146197,Pessoa 5,Ativo
+15,Ofício,Jurídico,2025-05-02 16:39:51.146199,Pessoa 19,Ativo
+16,Ofício,Administrativo,2025-10-06 16:39:51.146202,Pessoa 6,Arquivado
+17,Contrato,RH,2026-03-23 16:39:51.146204,Pessoa 7,Arquivado
+18,Contrato,Administrativo,2025-08-07 16:39:51.146208,Pessoa 2,Arquivado
+19,Contrato,Jurídico,2024-09-29 16:39:51.146210,Pessoa 10,Pendente
+20,Contrato,Administrativo,2023-12-26 16:39:51.146213,Pessoa 2,Ativo
+21,Processo,Jurídico,2025-05-06 16:39:51.146215,Pessoa 15,Pendente
+22,Contrato,TI,2024-08-05 16:39:51.146217,Pessoa 4,Pendente
+23,Contrato,Jurídico,2024-02-29 16:39:51.146220,Pessoa 6,Pendente
+24,Contrato,Financeiro,2026-03-11 16:39:51.146222,Pessoa 8,Pendente
+25,Processo,TI,2024-12-12 16:39:51.146224,Pessoa 11,Pendente
+26,Ofício,Jurídico,2023-10-28 16:39:51.146227,Pessoa 4,Pendente
+27,Contrato,TI,2024-05-04 16:39:51.146229,Pessoa 15,Pendente
+28,Nota Fiscal,Administrativo,2025-06-04 16:39:51.146232,Pessoa 2,Ativo
+29,Processo,Jurídico,2023-12-12 16:39:51.146234,Pessoa 9,Ativo
+30,Relatório,TI,2025-06-16 16:39:51.146236,Pessoa 13,Pendente
+31,Contrato,Administrativo,2025-09-08 16:39:51.146238,Pessoa 8,Ativo
+32,Nota Fiscal,TI,2023-12-30 16:39:51.146241,Pessoa 2,Ativo
+33,Ofício,RH,2026-03-13 16:39:51.146243,Pessoa 19,Ativo
+34,Processo,RH,2025-06-24 16:39:51.146245,Pessoa 12,Arquivado
+35,Ofício,Financeiro,2024-08-29 16:39:51.146248,Pessoa 17,Arquivado
+36,Nota Fiscal,TI,2024-12-12 16:39:51.146250,Pessoa 19,Arquivado
+37,Relatório,Financeiro,2024-04-22 16:39:51.146252,Pessoa 5,Ativo
+38,Relatório,Jurídico,2025-09-26 16:39:51.146256,Pessoa 9,Pendente
+39,Ofício,Financeiro,2025-07-09 16:39:51.146258,Pessoa 20,Arquivado
+40,Processo,TI,2025-05-04 16:39:51.146260,Pessoa 1,Ativo
+41,Processo,Jurídico,2024-06-16 16:39:51.146263,Pessoa 13,Ativo
+42,Processo,Financeiro,2023-12-10 16:39:51.146265,Pessoa 7,Ativo
+43,Relatório,TI,2025-03-26 16:39:51.146267,Pessoa 16,Arquivado
+44,Relatório,RH,2024-11-16 16:39:51.146269,Pessoa 7,Ativo
+45,Nota Fiscal,RH,2024-09-07 16:39:51.146273,Pessoa 16,Arquivado
+46,Nota Fiscal,RH,2026-04-24 16:39:51.146275,Pessoa 11,Arquivado
+47,Processo,Financeiro,2025-05-22 16:39:51.146278,Pessoa 1,Arquivado
+48,Ofício,Jurídico,2023-11-20 16:39:51.146280,Pessoa 14,Arquivado
+49,Nota Fiscal,Administrativo,2025-06-06 16:39:51.146282,Pessoa 15,Ativo
+50,Nota Fiscal,Administrativo,2026-06-24 16:39:51.146285,Pessoa 6,Arquivado
+51,Relatório,Administrativo,2025-04-30 16:39:51.146287,Pessoa 12,Ativo
+52,Nota Fiscal,Financeiro,2024-02-18 16:39:51.146289,Pessoa 13,Arquivado
+53,Contrato,Financeiro,2026-01-15 16:39:51.146291,Pessoa 5,Arquivado
+54,Processo,Administrativo,2025-01-30 16:39:51.146294,Pessoa 9,Arquivado
+55,Relatório,RH,2024-01-30 16:39:51.146296,Pessoa 1,Arquivado
+56,Processo,Financeiro,2023-11-26 16:39:51.146298,Pessoa 16,Ativo
+57,Contrato,Financeiro,2024-08-07 16:39:51.146302,Pessoa 9,Arquivado
+58,Contrato,TI,2025-08-17 16:39:51.146304,Pessoa 7,Ativo
+59,Nota Fiscal,Jurídico,2025-09-12 16:39:51.146307,Pessoa 18,Pendente
+60,Contrato,Jurídico,2024-08-23 16:39:51.146309,Pessoa 6,Pendente
+61,Ofício,RH,2024-12-09 16:39:51.146311,Pessoa 16,Arquivado
+62,Relatório,Financeiro,2026-05-19 16:39:51.146314,Pessoa 13,Arquivado
+63,Relatório,Jurídico,2025-07-03 16:39:51.146316,Pessoa 15,Ativo
+64,Nota Fiscal,Financeiro,2025-09-19 16:39:51.146318,Pessoa 8,Pendente
+65,Ofício,Jurídico,2024-10-04 16:39:51.146321,Pessoa 14,Arquivado
+66,Relatório,Administrativo,2026-01-24 16:39:51.146324,Pessoa 11,Arquivado
+67,Relatório,Financeiro,2024-03-23 16:39:51.146326,Pessoa 6,Arquivado
+68,Nota Fiscal,Financeiro,2024-11-14 16:39:51.146328,Pessoa 7,Ativo
+69,Processo,TI,2025-06-10 16:39:51.146330,Pessoa 18,Arquivado
+70,Ofício,RH,2024-08-09 16:39:51.146333,Pessoa 8,Pendente
+71,Relatório,Jurídico,2025-08-01 16:39:51.146335,Pessoa 11,Arquivado
+72,Ofício,Financeiro,2025-01-15 16:39:51.146337,Pessoa 17,Arquivado
+73,Relatório,Administrativo,2024-09-04 16:39:51.146340,Pessoa 13,Pendente
+74,Contrato,Financeiro,2025-03-03 16:39:51.146342,Pessoa 11,Arquivado
+75,Ofício,Administrativo,2025-10-08 16:39:51.146344,Pessoa 20,Ativo
+76,Nota Fiscal,Administrativo,2026-02-23 16:39:51.146348,Pessoa 3,Ativo
+77,Contrato,RH,2025-10-11 16:39:51.146352,Pessoa 11,Pendente
+78,Ofício,Administrativo,2025-07-04 16:39:51.146355,Pessoa 7,Arquivado
+79,Contrato,TI,2024-01-19 16:39:51.146358,Pessoa 20,Pendente
+80,Relatório,Jurídico,2024-03-11 16:39:51.146360,Pessoa 16,Arquivado
+81,Processo,Administrativo,2025-06-21 16:39:51.146362,Pessoa 16,Pendente
+82,Relatório,Financeiro,2024-01-08 16:39:51.146365,Pessoa 18,Arquivado
+83,Ofício,TI,2025-08-11 16:39:51.146367,Pessoa 1,Ativo
+84,Contrato,Administrativo,2023-12-12 16:39:51.146369,Pessoa 7,Ativo
+85,Nota Fiscal,TI,2026-01-24 16:39:51.146371,Pessoa 6,Pendente
+86,Relatório,TI,2024-07-30 16:39:51.146374,Pessoa 10,Ativo
+87,Processo,RH,2026-04-25 16:39:51.146376,Pessoa 1,Pendente
+88,Contrato,RH,2025-05-19 16:39:51.146379,Pessoa 14,Ativo
+89,Ofício,RH,2023-12-09 16:39:51.146381,Pessoa 2,Arquivado
+90,Relatório,Administrativo,2024-08-10 16:39:51.146383,Pessoa 7,Ativo
+91,Processo,Administrativo,2024-02-02 16:39:51.146385,Pessoa 16,Ativo
+92,Ofício,Jurídico,2026-03-18 16:39:51.146388,Pessoa 12,Arquivado
+93,Nota Fiscal,TI,2025-05-06 16:39:51.146390,Pessoa 8,Pendente
+94,Relatório,RH,2024-10-10 16:39:51.146393,Pessoa 2,Pendente
+95,Processo,Financeiro,2025-01-08 16:39:51.146395,Pessoa 4,Pendente
+96,Relatório,TI,2024-07-08 16:39:51.146399,Pessoa 16,Pendente
+97,Nota Fiscal,Jurídico,2025-06-01 16:39:51.146402,Pessoa 3,Ativo
+98,Contrato,RH,2024-07-14 16:39:51.146404,Pessoa 8,Ativo
+99,Relatório,Financeiro,2025-07-27 16:39:51.146406,Pessoa 19,Ativo
+100,Contrato,Jurídico,2026-01-19 16:39:51.146408,Pessoa 20,Ativo
