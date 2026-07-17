@@ -11,6 +11,8 @@ df = pd.read_csv("dados/documentos.csv")
 
 st.title("📂 Dashboard de Gestão Documental")
 
+st.markdown("---")
+st.subheader("📌 Indicadores Gerais")
 
 # FILTROS
 st.sidebar.header("Filtros")
@@ -45,11 +47,13 @@ pendentes = len(df_filtrado[df_filtrado["Status"] == "Pendente"])
 
 col1, col2, col3, col4 = st.columns(4)
 
-col1.metric("Total", total)
-col2.metric("Ativos", ativos)
-col3.metric("Arquivados", arquivados)
-col4.metric("Pendentes", pendentes)
+col1.metric("📄 Total de documentos", total)
+col2.metric("✅ Documentos ativos", ativos)
+col3.metric("📦 Documentos arquivados", arquivados)
+col4.metric("⚠️ Documentos pendentes", pendentes)
 
+st.markdown("---")
+st.subheader("📈 Análise dos Documentos")
 
 # GRÁFICO SETOR
 
@@ -81,6 +85,45 @@ ax.set_ylabel("")
 
 st.pyplot(fig)
 
+# GRÁFICO TIPO DE DOCUMENTO
+
+st.subheader("Tipos de documentos")
+
+fig, ax = plt.subplots()
+
+df_filtrado["Tipo_Documento"].value_counts().plot(
+    kind="bar",
+    ax=ax
+)
+
+ax.set_xlabel("Tipo")
+ax.set_ylabel("Quantidade")
+
+st.pyplot(fig)
+
+# ANÁLISE AUTOMÁTICA
+
+st.subheader("📊 Resumo da análise")
+
+setor_maior = df_filtrado["Setor"].value_counts().idxmax()
+quantidade_setor = df_filtrado["Setor"].value_counts().max()
+
+pendentes = len(
+    df_filtrado[df_filtrado["Status"] == "Pendente"]
+)
+
+st.write(
+    f"""
+    - O setor com maior quantidade de documentos é **{setor_maior}**,
+    com **{quantidade_setor} documentos**.
+
+    - Existem **{pendentes} documentos pendentes**
+    que precisam de acompanhamento.
+    """
+)
+
+st.markdown("---")
+st.subheader("📋 Lista de Documentos")
 
 # TABELA
 
