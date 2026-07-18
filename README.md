@@ -36,12 +36,16 @@ O objetivo é criar indicadores que auxiliem no acompanhamento documental, permi
 Projeto_Gestao_Documental
 
 ├── dados
-│ └── documentos.csv
+│
+└── documentos.csv
 
 ├── graficos
-│ ├── documentos_por_tipo.png
-│ ├── documentos_por_setor.png
-│ └── status_documentos.png
+│ 
+├── documentos_por_tipo.png
+│ 
+├── documentos_por_setor.png
+│ 
+└── status_documentos.png
 
 ├── gerar_dados.py
 ├── analise.py
