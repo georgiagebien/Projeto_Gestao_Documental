@@ -35,11 +35,7 @@ O objetivo é criar indicadores que auxiliem no acompanhamento documental, permi
 ## Estrutura do projeto
 Projeto_Gestao_Documental
 
-├── dados
-
-   │
-
-   └── documentos.csv
+├── dados│└── documentos.csv
 
 ├── graficos
 │ 
