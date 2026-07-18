@@ -37,9 +37,9 @@ Projeto_Gestao_Documental
 
 ├── dados
 
-│
+   │
 
-└── documentos.csv
+   └── documentos.csv
 
 ├── graficos
 │ 
